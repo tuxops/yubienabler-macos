@@ -1,5 +1,5 @@
 #!/bin/bash
-# set up system to use YubiKey
+# set up MacOS to use YubiKey
 # use setupuser for setting up a new user 
 
 datestamp=$(date +%Y%m%dT%H%M%S)
