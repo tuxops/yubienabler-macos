@@ -18,3 +18,4 @@ screensaver.dist| screensaver file as distributed in MacOS, for recovery
 screensaver.yubi| screensaver file with Yubico PAM enabled
 yubipam.sh|systemwide setup for use of YubiKeys with PAM,
 .|run after install of YibiKey software and MacOS upgrades
+README.md|this file
