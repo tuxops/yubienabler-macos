@@ -17,6 +17,6 @@ authorization.yubi| authorization file with Yubico PAM enabled
 screensaver.dist| screensaver file as distributed in MacOS, for recovery
 screensaver.yubi| screensaver file with Yubico PAM enabled
 yubipam.sh|systemwide setup for use of YubiKeys with PAM,
-.|run after install of YubiKey software and MacOS upgrades
+.|run after install of YubiKey software or after MacOS upgrades
 README.md|this file
 
