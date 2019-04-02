@@ -2,7 +2,7 @@
 A small project to enable the use of YubiKeys on MacOS.
 
 ## Using ##
-Clone the project and run yubipam.sh.
+Clone or download the project and run yubipam.sh.
 
 ## Prerequisites ##
 * Yubico PAM for MacOS software
