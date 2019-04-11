@@ -5,8 +5,7 @@
 #
 PATH=/usr/bin:/bin:/usr/sbin:/sbin
 
-# readonly PAMDIR=/etc/pam.d
-readonly PAMDIR=/Users/hal/etcpam
+readonly PAMDIR=/etc/pam.d
 readonly AUTHFILE=authorization
 readonly SCREENSAVERFILE=screensaver
 readonly YUBILIB=/usr/local/lib/security/pam_yubico.so
